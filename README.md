@@ -1,21 +1,24 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
+# Olá! Bem vindo ao meu mundo!  #
+To contact me.
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hamiltonburratto/)
 <div>
 <br/>
-- 🖥️ Computer Engineering student, working in a research laboratory developing projects such as Full-Stack and learning DataScience<br/>
-- 🖌️ Proficient in front-end technologies like Bootstrap, TypeScrip, Angular as well as back-end technologies like Django<br/>
-- 👓 Also learning DevOps, with CI/CD on Github with Github Actions, and Cloud infrastructure, with a focus on Azure<br/>
+- 🖥️ Systems Analysis and Development student, working in a research laboratory developing projects such as QA Tester and learning CI/CD, agile methodologies, Postman and K6 <br/>
+- 🖌️ Proficient in Cypress, JavaScript and technologies like Django<br/>
+- 👓 Also learning QA Tester, with Cypress, K6, Postman CI/CD on Github with Github Actions <br/>
 
 </div>
 
 # Main Skills #
 
-<a href="https://docs.python.org/3/library/index.html"><img src="https://skillicons.dev/icons?i=python" alt="python" height="100" title="Python documentation"></a>
+<a href="https://docs.cypress.io/guides/overview/why-cypress"><img src="https://skillicons.dev/icons?i=cypress" alt="python" height="100" title="Cypress documentation"></a>
 <a href="https://docs.djangoproject.com/en/5.0/"><img src="https://skillicons.dev/icons?i=django" alt="django" height="100" title="Django documentation"></a>
-<a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript" height="100" title="TypeScript documentation"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="typescript" height="100" title="JavaScript documentation"></a>
-<a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="typescript" height="100" title="BootStrap documentation"></a>
-<a href="https://help.figma.com/hc/en-us/categories/360002051613"><img src="https://skillicons.dev/icons?i=figma" alt="typescript" height="100" title="Figma documentation"></a>
+<a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="typescript" height="100" title="Git documentation"></a>
+<a href="https://docs.github.com/pt"><img src="https://skillicons.dev/icons?i=github" alt="typescript" height="100" title="Github documentation"></a>
+<a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" alt="typescript" height="100" title="Md documentation"></a>
 <a href="https://docs.github.com/pt/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="typescript" height="100" title="GithubActions documentation"></a>
 <!--
 <a href="https://docs.opencv.org/4.x/index.html"><img src="https://skillicons.dev/icons?i=opencv" alt="typescript" height="100" title="OpenCV documentation"></a>
@@ -96,28 +99,7 @@
 
 <p align="center">
 
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=JeanM-Rebello&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=JeanM-Rebello&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-
 </p>
-
-
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
-
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanM-Rebello&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
-
-
-<p align="center">
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=JeanM-Rebello&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
-</p>
-
 
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
@@ -133,4 +115,4 @@
 
 To contact me.
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jean-rebello/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hamiltonburratto/)
