@@ -108,11 +108,3 @@ To contact me.
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-# Reach out to me #
-
-
-
-To contact me.
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hamiltonburratto/)
