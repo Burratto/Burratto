@@ -2,7 +2,7 @@
 # Olá! Bem vindo ao meu mundo!  #
 To contact me.
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hamiltonburratto/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/burratto/)
 <div>
 <br/>
 - 🖥️ Systems Analysis and Development student, working in a research laboratory developing projects such as QA Tester and learning CI/CD, agile methodologies, Postman and K6 <br/>
